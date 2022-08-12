@@ -1,0 +1,11 @@
+- [ ] define all error types
+- [ ] add tests for each type
+- [ ] impl binary (md5, uuid, olduuid,..)
+- [ ] impl objectid
+- [ ] impl all get functions for array and document
+- [ ] add docs for each type
+- [ ] impl date time
+- [ ] impl timestamp
+- [ ] impl debug and display for array and document
+- [ ] impl decimal128
+- [ ] change structure for public api

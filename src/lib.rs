@@ -17,7 +17,7 @@
 /// }
 /// ```
 pub mod element;
-pub mod parse;
+mod parse;
 
 pub use element::*;
 #[cfg(test)]

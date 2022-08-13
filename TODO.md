@@ -1,8 +1,8 @@
 - [ ] define all error types
 - [ ] add tests for each type
 - [ ] impl binary (md5, uuid, olduuid,..)
-- [ ] impl objectid
-- [ ] impl all get functions for array and document
+- [x] impl objectid
+- [x] impl all get functions for array and document
 - [ ] add docs for each type
 - [ ] impl date time
 - [ ] impl timestamp
